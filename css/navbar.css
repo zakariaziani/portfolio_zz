@@ -1,0 +1,13 @@
+.custom-navbar {
+    margin-bottom: 0;
+    background-color: #ffffff;
+}
+
+.logo-name {
+    color: #333;
+    text-shadow: 1px 1px #fff;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 35px;
+    letter-spacing: 1px;
+}
